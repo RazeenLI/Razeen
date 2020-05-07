@@ -1,6 +1,7 @@
 # the basis of Git & GitHub
 > this is not completed
 
+***
 ### 本地Git命令
 ***
 #### 1. 把当前目录变成Git可以管理的.

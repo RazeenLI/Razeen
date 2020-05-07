@@ -46,3 +46,6 @@
 #### 3. 克隆远程库到本地
 	git clone git@github.com:< name> /< repository >.git
 ***
+## Maintainers
+ 
+[RazeenLI](https://github.com/RazeenLI)

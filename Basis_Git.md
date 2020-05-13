@@ -44,7 +44,7 @@
 ##### II. 普通推送
 	git push origin <  branch-name >
 #### 3. 克隆远程库到本地
-	git clone git@github.com:< name> /< repository >.git
+	git clone git@github.com:Razeen/< repository >.git
 ***
 ## Maintainers
  

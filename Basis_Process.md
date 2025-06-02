@@ -11,3 +11,9 @@ ps -p PID
 ```shell
 pstree -p PID
 ```
+
+3. 查看gpu
+   
+```shell
+nvidia-smi
+```

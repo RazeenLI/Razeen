@@ -4,6 +4,8 @@
 
 ```shell
 ps -p PID
+ps -p PID -o pid,ppid,etime,cmd
+
 ```
 
 2. 查看子进程

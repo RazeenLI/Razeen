@@ -19,3 +19,7 @@ pstree -p PID
 ```shell
 nvidia-smi
 ```
+4. 后台运行
+```shell
+nohup python -m run > output.log 2>&1 &
+```
